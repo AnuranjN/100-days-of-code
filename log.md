@@ -15,7 +15,7 @@
 **Link(s) to work**
 1. [Some excercises based on topics learned](https://github.com/AnuranjN/Learning_JavaScript/commit/695fc2cb88b90660c7cbe1f98593b2cdc89df7a8)
 
-### Day 2: October 5, Tednesday
+### Day 2: October 5, Thursday
 
 **Today's Progress**: Practiced more Array Exercises on JavaScript
 
