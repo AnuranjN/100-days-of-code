@@ -23,3 +23,12 @@
 
 **Link(s) to work**
 1. [Some excercises based on topics learned](https://github.com/AnuranjN/Learning_JavaScript/commit/91f43a3318740b3eb8cd4dca74e572f93e5a4c36)
+
+### Day 3: October 6, Friday
+
+**Today's Progress**: Learnt and practiced different loops using JavaScript
+
+**Thoughts:** Learnt about different loops like for loop,while loop, for in loop, do while loop and practiced using them. Also learnt to create functions and how to invoke the function on click. Getting more familiar with JS and able to get a clear idea on how its gonna be used in web dev.
+
+**Link(s) to work**
+1. [Practiced different loops using JS](https://github.com/AnuranjN/Learning_JavaScript/commit/12d30bb4374e105fe733d5fbd4c4d2145789485e)
