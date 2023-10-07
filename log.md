@@ -32,3 +32,12 @@
 
 **Link(s) to work**
 1. [Practiced different loops using JS](https://github.com/AnuranjN/Learning_JavaScript/commit/12d30bb4374e105fe733d5fbd4c4d2145789485e)
+
+### Day 4: October 7, Saturday
+
+**Today's Progress**: Built some basic mini projects
+
+**Thoughts:** Learnt about some events like mouseclick, mouseover, keypress etc. Also built two mini projects. One is a background color changer and another one is a Car Gallery. Feeling more confident and fun on working with JS
+
+**Link(s) to work**
+1. [Basic mini projects using JS](https://github.com/AnuranjN/Learning_JavaScript/commit/12797827ea73cf4a45ba466505863e2d58acb6c9)
