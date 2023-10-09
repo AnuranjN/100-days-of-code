@@ -41,3 +41,20 @@
 
 **Link(s) to work**
 1. [Basic mini projects using JS](https://github.com/AnuranjN/Learning_JavaScript/commit/12797827ea73cf4a45ba466505863e2d58acb6c9)
+
+### Day 5: October 8, Sunday
+
+**Today's Progress**: Revised CSS concepts for mini projects
+
+**Thoughts:** Revised CSS concepts to get started with some mini projects with already learnt JS till now. Played around with div tags and styling them to get an idea how they work.
+
+**Link(s) to work**
+1. [Learning CSS](https://github.com/AnuranjN/Learning_JavaScript/commit/a712205ae26f415972d25cbeba5196f12d6955d5)
+
+### Day 6: October 9, Monday
+
+**Today's Progress**: Built a Calculator using  HTML,CSS and JS
+
+**Thoughts:** Revised some CSS and JS notes. Then built a simple calculator using HTML,CSS and JS. Will be working on more mini projects to get hang of JS implementation. 
+**Link(s) to work**
+1. [Calculator using JS](https://github.com/AnuranjN/Learning_JavaScript/tree/main/Day_6/Calculator)
