@@ -58,3 +58,44 @@
 **Thoughts:** Revised some CSS and JS notes. Then built a simple calculator using HTML,CSS and JS. Will be working on more mini projects to get hang of JS implementation. 
 **Link(s) to work**
 1. [Calculator using JS](https://github.com/AnuranjN/Learning_JavaScript/tree/main/Day_6/Calculator)
+
+### Day 7: October 10, Tuesday
+
+**Today's Progress**: Built a To-Do List using  HTML,CSS and JS
+
+**Thoughts:** learnt about CSs Flexbox, tried some implementations for practice also revised JS already learnt
+**Link(s) to work**
+1. [To Do List](https://github.com/AnuranjN/Learning_JavaScript/commit/7d1b4a364e662a48135a176ffd67e452c8801ca4)
+
+### Day 8: October 11, Wednesday
+
+**Today's Progress**: Practiced CSS Flexbox
+
+**Thoughts:** Revised some CSS and JS notes. Then practiced using CSS Flexbox and working with it.
+**Link(s) to work**
+1. [CSS Flexbox](https://github.com/AnuranjN/Learning_JavaScript/commit/70b91e0c5f6806bdfb5ef9f9297a826c4b815f74)
+
+### Day 9: October 12, Thursday
+
+**Today's Progress**: Built a Simple BMI calculator
+
+**Thoughts:** Learnt about arrow functions in JS, Practiced some exercises on objects and built a BMI Calculator using HTML,CSS and JS
+**Link(s) to work**
+1. [BMI CALCULATOR](https://github.com/AnuranjN/Learning_JavaScript/commit/0ba0ce298d239b33dfe39733057f2cf57a2bdfc1)
+
+### Day 10: October 13, Friday
+
+**Today's Progress**: Grade Predictor
+
+**Thoughts:** Revised JS basics, loops and functions. Also practiced creating functions using JS
+**Link(s) to work**
+1. [Grade Predictor](https://github.com/AnuranjN/Learning_JavaScript/commit/4e9cf43b62c896ee3c3db5b7b65bfc6296e54be2)
+
+### Day 11: October 15, Sunday
+
+**Today's Progress**: Started Scaler's JS Course for Beginners
+
+**Thoughts:** Revised JS topics i already know, Learnt and practiced declaring Objects within an Objects using a Object named Iron man
+**Link(s) to work**
+1. [Day 11](https://github.com/AnuranjN/Learning_JavaScript/tree/main/Day_11)
+
