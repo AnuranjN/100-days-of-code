@@ -99,3 +99,10 @@
 **Link(s) to work**
 1. [Day 11](https://github.com/AnuranjN/Learning_JavaScript/tree/main/Day_11)
 
+### Day 12: October 16, Monday
+
+**Today's Progress**: Conditional statments and loops from scalers course
+
+**Thoughts:** Revised about conditional statements, learnt about for of loop and using entries() to access the elements. Also practiced using while,do while, for in loop
+**Link(s) to work**
+1. [Day 12](https://github.com/AnuranjN/Learning_JavaScript/commit/0ddb0cc28d49514369bd78f2d447ace087ccaf5e)
