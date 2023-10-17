@@ -106,3 +106,11 @@
 **Thoughts:** Revised about conditional statements, learnt about for of loop and using entries() to access the elements. Also practiced using while,do while, for in loop
 **Link(s) to work**
 1. [Day 12](https://github.com/AnuranjN/Learning_JavaScript/commit/0ddb0cc28d49514369bd78f2d447ace087ccaf5e)
+
+### Day 13: October 17, Tuesday
+
+**Today's Progress**: Learnt about hoisting and ES6 in JavaScript
+
+**Thoughts:** Hoisting showed how JS is actually different from C++ and Java. We are able to execute the variables before declaring them. Also learnt about EcmaScript version 6 aka ES6 and its features. Today covered let and const and how they are better than var and tried executing expressions using them. Feeling moore confident with JS now, lot more to go
+**Link(s) to work**
+[Day 13](https://github.com/AnuranjN/Learning_JavaScript/commit/b42789e8fe5ccf9e2da2f113c1cfa36afbd338c2)
